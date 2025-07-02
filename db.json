@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Contoh Post",
+      "body": "Ini adalah isi dari post pertama."
+    }
+  ]
+}
